@@ -1,2 +1,3 @@
 echo "hello git"
-additional info
+echo "additional info"
+echo "yo mama"
